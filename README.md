@@ -19,3 +19,24 @@ Here you need to enter the url of the youtube video you want to listen
 Please Follow this format `https://www.youtube.com/watch?v=*id of the youtube video*`
 <br>
 In future support for short notation will be added too.
+
+## Audio Listening Page
+
+![Image showing the Audio Listening Page](https://github.com/MartyMiniac/listentube/blob/master/images/listen_page.JPG "Audio Listening Page")
+
+This is the page where you will be listening to the audio
+<br>
+By clicking the download button you will be able to download the audio file.
+
+## Simple Trick
+
+![Image showing the Audio Listening Page](https://github.com/MartyMiniac/listentube/blob/master/images/api.JPG "Audio Listening Page")
+
+Here is a trick for you lazy pants.
+<br>
+You can add video id at the end of the url to directly land in the audio player with the audio loaded.
+<br>
+Follow the Format `https://listentube.herokuapp.com/*id of the youtube video to listen*`
+<br>
+<br>
+**If you really Liked it don't forget to slap that star button and follow me on github for my upcoming projects**
