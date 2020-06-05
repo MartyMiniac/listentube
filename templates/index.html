@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="wrapper">
+    <div class="head">
+        <h1>
+            ListenTube
+        </h1>
+        <h4>
+            A New way to listen videos
+        </h4>
+    </div>
+    <div>
+        <p class="info">
+            Why waste data watching videos just to listen music on youtube. Here is the solution! Enjoy ad free youtube audio just by entering the video url.
+            <br>
+            ListenTube Allows you listen to youtube audio without loading the video effectively saving your data from videos or ads. 
+        </p>
+    </div>
+    <div class="inputform">
+        <form action="/" method="POST">
+            <input type="text" required autofocus size="50" placeholder="Enter the URL of the YouTube Page" name="url" class="url">
+            <input type="submit" value="Listen">
+        </form>
+    </div>
+</div>
+{% endblock %}

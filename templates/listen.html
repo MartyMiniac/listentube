@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="wrapper">
+    <div class="head">
+        <h1>
+            ListenTube
+        </h1>
+        <h4>
+            A New way to listen videos
+        </h4>
+    </div>
+    <h3 class="videoTitle">{{ title }}</h3>
+    <div class="inputform">
+        <audio autoplay controls>
+            <source src="{{ url }}" type="audio/ogg">
+        Your browser does not support the audio element.
+        </audio>
+        <br>
+        <a href="{{ url }}"><button class="btn">Download</button></a>
+    </div>
+</div>
+{% endblock %}
