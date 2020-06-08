@@ -20,7 +20,7 @@ Please Follow this format `https://www.youtube.com/watch?v=*id of the youtube vi
 <br>
 In future support for short notation will be added too.
 
-## Audio Listening Page
+### Audio Listening Page
 
 ![Image showing the Audio Listening Page](https://github.com/MartyMiniac/listentube/blob/master/images/listen_page.JPG "Audio Listening Page")
 
@@ -28,7 +28,7 @@ This is the page where you will be listening to the audio
 <br>
 By clicking the download button you will be able to download the audio file.
 
-## Simple Trick
+### Simple Trick
 
 ![Image showing the Audio Listening Page](https://github.com/MartyMiniac/listentube/blob/master/images/api.JPG "Audio Listening Page")
 
