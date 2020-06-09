@@ -96,3 +96,12 @@ h4{
 h3{
     text-align: center;
 }
+.audiocontrol{
+    width: 50vw;
+}
+@media screen and (max-width: 900px)
+{
+    .audiocontrol{
+        width: 100%;
+    }
+}
